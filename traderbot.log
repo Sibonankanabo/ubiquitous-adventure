@@ -1,0 +1,1037 @@
+2024-09-08 19:52:02,784 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-08 19:53:35,500 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 19:53:35,516 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 19:53:50,977 - Error occurred: tuple index out of range
+2024-09-08 19:54:32,102 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 19:54:32,102 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 19:54:34,400 - Error occurred: tuple index out of range
+2024-09-08 19:56:05,241 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 19:56:05,241 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 19:56:07,486 - Error occurred: tuple index out of range
+2024-09-08 19:56:51,117 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-08 20:10:54,943 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:10:54,960 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:10:57,222 - Error occurred: tuple index out of range
+2024-09-08 20:13:25,707 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:13:25,707 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:13:27,971 - Error occurred: tuple index out of range
+2024-09-08 20:14:14,060 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:14:14,075 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:14:16,383 - Error occurred: tuple index out of range
+2024-09-08 20:14:52,306 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:14:52,321 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:14:54,576 - Error occurred: tuple index out of range
+2024-09-08 20:15:16,735 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:15:16,757 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:15:18,994 - Error occurred: tuple index out of range
+2024-09-08 20:16:18,265 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:16:18,281 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:16:23,733 - Error occurred: tuple index out of range
+2024-09-08 20:16:38,427 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:16:38,442 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:16:40,698 - Error occurred: tuple index out of range
+2024-09-08 20:18:21,127 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:18:21,127 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:18:23,400 - Error occurred: tuple index out of range
+2024-09-08 20:18:49,995 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:18:50,012 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:18:52,246 - Error occurred: tuple index out of range
+2024-09-08 20:19:44,099 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:19:44,099 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:19:46,340 - Error occurred: tuple index out of range
+2024-09-08 20:20:04,003 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:20:04,003 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:20:06,234 - Error occurred: tuple index out of range
+2024-09-08 20:23:12,522 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:23:12,538 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:23:16,754 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-08 20:26:35,004 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:26:35,020 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:26:38,954 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-08 20:27:57,575 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-08 20:28:37,997 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-08 20:28:49,099 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:28:49,112 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:28:53,087 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-08 20:51:42,754 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-08 20:51:45,681 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:51:45,689 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:51:49,779 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024798295880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-08 20:52:02,391 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:52:02,403 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:52:06,470 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247A15EFDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-08 20:56:08,320 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-08 20:56:08,337 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-08 20:57:16,287 - Failed to fetch market data: initialize() failed, error code = (-10005, 'IPC timeout')
+2024-09-08 21:58:23,718 - Failed to fetch market data: initialize() failed, error code = (-10005, 'IPC timeout')
+2024-09-10 19:52:28,360 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-10 19:52:33,742 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 19:52:33,742 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 19:53:48,629 - Failed to fetch market data: initialize() failed, error code = (-10005, 'IPC timeout')
+2024-09-10 19:57:42,201 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 19:57:42,216 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 19:57:54,398 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 19:57:54,430 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 19:58:01,966 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 19:58:01,966 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:01:30,736 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:01:30,739 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:01:35,019 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:02:02,162 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:02:02,169 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:02:06,214 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:08:12,637 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:08:12,654 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:08:16,894 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:08:37,431 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:08:37,446 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:08:41,561 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:23:50,447 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-10 20:24:14,591 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:24:14,600 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:24:18,696 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:25:54,212 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 20:25:54,212 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 20:25:58,862 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 20:55:32,559 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-10 21:07:21,965 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-10 21:07:48,042 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 21:07:48,058 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 21:07:52,118 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 21:08:06,072 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 21:08:06,094 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 21:08:11,037 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 21:09:39,475 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 21:09:39,490 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 21:09:43,504 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-10 21:10:10,005 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-10 21:10:10,023 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-10 21:10:14,331 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 16:01:39,418 - From C:\Users\sibona\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-09-11 16:02:16,224 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 16:02:16,240 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 16:02:31,922 - Error occurred: cannot reshape array of size 89550 into shape (9950,1,1)
+2024-09-11 16:46:58,997 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 16:46:59,009 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 16:47:01,253 - Error occurred: cannot reshape array of size 89550 into shape (9950,1,1)
+2024-09-11 16:48:26,877 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 16:48:26,894 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 16:48:29,205 - Error occurred: cannot reshape array of size 89550 into shape (9950,1,1)
+2024-09-11 17:04:33,343 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:04:33,351 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:04:37,463 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 17:07:32,335 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:07:32,361 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:07:36,640 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 17:08:15,728 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:08:15,745 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:08:19,799 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 17:42:42,652 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-11 17:44:09,225 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:44:09,244 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:44:13,240 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 17:45:24,726 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:45:24,742 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:45:28,821 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 17:51:27,893 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 17:51:27,910 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 17:51:30,278 - Error occurred: Exception encountered when calling Sequential.call().
+
+[1mInvalid input shape for input Tensor("data:0", shape=(32, 9), dtype=float32). Expected shape (None, 1, 9), but input has incompatible shape (32, 9)[0m
+
+Arguments received by Sequential.call():
+  • inputs=tf.Tensor(shape=(32, 9), dtype=float32)
+  • training=False
+  • mask=None
+2024-09-11 18:00:58,243 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:00:58,243 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:01:03,545 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 18:01:56,168 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:01:56,173 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:02:02,065 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 18:02:21,520 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:02:21,536 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:02:24,181 - 5 out of the last 314 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000018D764931A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-09-11 18:02:25,595 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 18:12:02,197 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:12:02,210 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:12:06,931 - Error occurred: axis 1 is out of bounds for array of dimension 1
+2024-09-11 18:13:37,992 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:13:38,001 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:13:41,975 - Error occurred: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 1 and the array at index 1 has size 9950
+2024-09-11 18:15:37,083 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:15:37,099 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:15:41,996 - Error occurred: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 1 and the array at index 1 has size 9950
+2024-09-11 18:18:34,661 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:18:34,677 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:18:38,678 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-11 18:19:44,218 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:19:44,245 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:19:44,246 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:19:50,513 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:19:50,513 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:19:50,513 - Failed to place order
+2024-09-11 18:30:43,823 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:30:43,840 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:30:43,840 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:30:50,176 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:30:50,176 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:30:50,176 - Failed to place order
+2024-09-11 18:31:35,033 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:31:35,050 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:31:35,050 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:31:40,975 - Failed to close positions: Missing required fields.
+2024-09-11 18:31:40,975 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:31:40,975 - Failed to place order
+2024-09-11 18:38:55,275 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:38:55,291 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:38:55,291 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:39:01,457 - Failed to close positions: No open positions found.
+2024-09-11 18:39:01,457 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:39:01,457 - Failed to place order
+2024-09-11 18:45:20,027 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:45:20,043 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:45:20,043 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:45:26,186 - Failed to close positions: No open positions found.
+2024-09-11 18:45:26,186 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:45:26,186 - Failed to place order
+2024-09-11 18:47:48,961 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:47:48,977 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:47:48,977 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:47:55,994 - Failed to close positions: No open positions found.
+2024-09-11 18:47:55,994 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:47:55,994 - Failed to place order
+2024-09-11 18:50:16,139 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:50:16,146 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:50:16,146 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:50:25,294 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:50:25,294 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:50:25,294 - Failed to place order
+2024-09-11 18:51:22,275 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:51:22,287 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:51:22,287 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:51:29,157 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:51:29,157 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:51:29,158 - Failed to place order
+2024-09-11 18:51:29,700 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:51:29,705 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:51:29,705 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:51:37,992 - Error closing positions: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /close_position (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D7D4E3680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-11 18:51:37,992 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:51:37,992 - Failed to place order
+2024-09-11 18:52:37,254 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:52:37,258 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:52:37,259 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:52:43,484 - Failed to close positions: No open positions found.
+2024-09-11 18:52:43,484 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:52:43,484 - Failed to place order
+2024-09-11 18:54:14,444 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:54:14,460 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:54:14,460 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:54:20,413 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:54:20,422 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:54:20,422 - Failed to place order
+2024-09-11 18:55:06,324 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:55:06,329 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:55:06,330 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:55:12,506 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-11 18:55:12,519 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:55:12,519 - Failed to place order
+2024-09-11 18:55:35,233 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:55:35,233 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:55:35,233 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:55:41,371 - Positions closed successfully.
+2024-09-11 18:55:41,371 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:55:41,371 - Failed to place order
+2024-09-11 18:58:26,712 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:58:26,718 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:58:26,719 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:58:30,793 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D0D9E9160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-11 18:58:56,844 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 18:58:56,861 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 18:58:56,861 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 18:59:02,943 - Failed to close positions: No open positions found.
+2024-09-11 18:59:02,943 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 18:59:02,943 - Failed to place order
+2024-09-11 19:00:58,295 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:00:58,295 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:00:58,295 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 19:01:04,540 - Positions closed successfully.
+2024-09-11 19:01:04,540 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:01:04,540 - Failed to place order
+2024-09-11 19:05:03,845 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:05:03,845 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:05:03,845 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 19:05:10,133 - Positions closed successfully.
+2024-09-11 19:05:10,133 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:05:10,133 - Failed to place order
+2024-09-11 19:07:57,064 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:07:57,069 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:07:57,069 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 19:08:03,168 - Positions closed successfully.
+2024-09-11 19:08:03,168 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:08:03,168 - Failed to place order
+2024-09-11 19:08:44,869 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:08:44,875 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:08:44,875 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 19:08:51,035 - Positions closed successfully.
+2024-09-11 19:08:51,035 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:08:51,035 - Failed to place order
+2024-09-11 19:19:56,162 - Positions closed successfully.
+2024-09-11 19:19:56,162 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:19:56,162 - Failed to place order
+2024-09-11 19:30:56,024 - Positions closed successfully.
+2024-09-11 19:30:56,025 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:30:56,025 - Failed to place order
+2024-09-11 19:31:46,684 - Positions closed successfully.
+2024-09-11 19:31:46,684 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:31:46,684 - Failed to place order
+2024-09-11 19:39:07,227 - Positions closed successfully.
+2024-09-11 19:39:07,228 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:39:07,228 - Failed to place order
+2024-09-11 19:45:32,888 - Positions closed successfully.
+2024-09-11 19:45:32,888 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:45:32,888 - Failed to place order
+2024-09-11 19:48:01,665 - Positions closed successfully.
+2024-09-11 19:48:01,665 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:48:01,665 - Failed to place order
+2024-09-11 19:50:31,283 - Positions closed successfully.
+2024-09-11 19:50:31,283 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:50:31,283 - Failed to place order
+2024-09-11 19:51:34,899 - Positions closed successfully.
+2024-09-11 19:51:34,899 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:51:34,900 - Failed to place order
+2024-09-11 19:51:44,961 - Positions closed successfully.
+2024-09-11 19:51:44,961 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:51:44,961 - Failed to place order
+2024-09-11 19:52:49,907 - Positions closed successfully.
+2024-09-11 19:52:49,908 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:52:49,908 - Failed to place order
+2024-09-11 19:53:34,526 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:53:34,533 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:53:34,534 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 19:53:40,219 - Error occurred: 'NoneType' object has no attribute 'inverse_transform'
+2024-09-11 19:54:26,216 - Positions closed successfully.
+2024-09-11 19:54:26,217 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:54:26,218 - Failed to place order
+2024-09-11 19:54:35,308 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 19:54:35,331 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 19:54:35,331 - Scaler loaded successfully
+2024-09-11 19:54:39,274 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-11 19:55:18,228 - Positions closed successfully.
+2024-09-11 19:55:18,228 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:55:18,228 - Failed to place order
+2024-09-11 19:55:46,935 - Positions closed successfully.
+2024-09-11 19:55:46,935 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:55:46,935 - Failed to place order
+2024-09-11 19:59:09,109 - Positions closed successfully.
+2024-09-11 19:59:09,109 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 19:59:09,109 - Failed to place order
+2024-09-11 20:01:10,466 - Positions closed successfully.
+2024-09-11 20:01:10,466 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:01:10,466 - Failed to place order
+2024-09-11 20:03:11,005 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:03:11,029 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:03:11,029 - Scaler loaded successfully
+2024-09-11 20:03:13,386 - Error occurred: float() argument must be a string or a real number, not 'dict'
+2024-09-11 20:05:15,752 - Positions closed successfully.
+2024-09-11 20:05:15,752 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:05:15,752 - Failed to place order
+2024-09-11 20:08:09,275 - Positions closed successfully.
+2024-09-11 20:08:09,277 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:08:09,277 - Failed to place order
+2024-09-11 20:08:24,908 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:08:24,917 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:08:24,917 - Scaler loaded successfully
+2024-09-11 20:08:27,140 - Error occurred: float() argument must be a string or a real number, not 'dict'
+2024-09-11 20:08:57,535 - Positions closed successfully.
+2024-09-11 20:08:57,536 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:08:57,537 - Failed to place order
+2024-09-11 20:11:53,407 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:11:53,435 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:11:53,436 - Scaler loaded successfully
+2024-09-11 20:11:55,692 - Error occurred: float() argument must be a string or a real number, not 'dict'
+2024-09-11 20:12:36,951 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:12:36,974 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:12:36,974 - Scaler loaded successfully
+2024-09-11 20:12:39,203 - Error occurred: float() argument must be a string or a real number, not 'dict'
+2024-09-11 20:13:45,529 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:13:45,555 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:13:45,555 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 20:13:51,616 - Positions closed successfully.
+2024-09-11 20:13:51,616 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:13:51,616 - Failed to place order
+2024-09-11 20:16:40,010 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:16:40,031 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:16:40,031 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 20:16:46,696 - Positions closed successfully.
+2024-09-11 20:16:46,696 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:16:46,696 - Failed to place order
+2024-09-11 20:17:00,543 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:17:00,547 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:17:00,547 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler.pkl'
+2024-09-11 20:17:06,565 - Positions closed successfully.
+2024-09-11 20:17:06,565 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:17:06,565 - Failed to place order
+2024-09-11 20:18:13,681 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 20:18:13,699 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 20:18:18,804 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-11 20:20:02,045 - Positions closed successfully.
+2024-09-11 20:20:02,045 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:20:02,045 - Failed to place order
+2024-09-11 20:31:01,515 - Positions closed successfully.
+2024-09-11 20:31:01,515 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:31:01,515 - Failed to place order
+2024-09-11 20:31:52,226 - Positions closed successfully.
+2024-09-11 20:31:52,226 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:31:52,226 - Failed to place order
+2024-09-11 20:40:14,879 - Failed to fetch market data: None
+2024-09-11 20:46:40,517 - Failed to fetch market data: None
+2024-09-11 20:49:08,214 - Failed to fetch market data: None
+2024-09-11 20:51:38,089 - Failed to fetch market data: None
+2024-09-11 20:52:42,859 - Failed to fetch market data: None
+2024-09-11 20:53:48,145 - Failed to fetch market data: None
+2024-09-11 20:54:53,187 - Failed to fetch market data: None
+2024-09-11 20:55:02,856 - Positions closed successfully.
+2024-09-11 20:55:02,857 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:55:02,857 - Failed to place order
+2024-09-11 20:55:26,254 - Positions closed successfully.
+2024-09-11 20:55:26,254 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:55:26,254 - Failed to place order
+2024-09-11 20:55:52,516 - Positions closed successfully.
+2024-09-11 20:55:52,516 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:55:52,516 - Failed to place order
+2024-09-11 20:59:14,661 - Positions closed successfully.
+2024-09-11 20:59:14,661 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 20:59:14,661 - Failed to place order
+2024-09-11 21:01:16,029 - Positions closed successfully.
+2024-09-11 21:01:16,029 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:01:16,029 - Failed to place order
+2024-09-11 21:05:21,404 - Positions closed successfully.
+2024-09-11 21:05:21,404 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:05:21,404 - Failed to place order
+2024-09-11 21:08:14,894 - Positions closed successfully.
+2024-09-11 21:08:14,894 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:08:14,894 - Failed to place order
+2024-09-11 21:09:03,261 - Positions closed successfully.
+2024-09-11 21:09:03,261 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:09:03,261 - Failed to place order
+2024-09-11 21:13:47,043 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-11 21:13:47,070 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-11 21:13:47,071 - Scaler loaded successfully
+2024-09-11 21:13:47,071 - Failed to load scaler: [Errno 2] No such file or directory: 'scaler_path'
+2024-09-11 21:13:57,353 - Positions closed successfully.
+2024-09-11 21:13:57,353 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:13:57,353 - Failed to place order
+2024-09-11 21:16:52,183 - Positions closed successfully.
+2024-09-11 21:16:52,256 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:16:52,256 - Failed to place order
+2024-09-11 21:17:12,018 - Positions closed successfully.
+2024-09-11 21:17:12,018 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:17:12,018 - Failed to place order
+2024-09-11 21:19:44,742 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-11 21:20:07,555 - Positions closed successfully.
+2024-09-11 21:20:07,555 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:20:07,555 - Failed to place order
+2024-09-11 21:31:07,045 - Positions closed successfully.
+2024-09-11 21:31:07,045 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:31:07,045 - Failed to place order
+2024-09-11 21:31:57,694 - Positions closed successfully.
+2024-09-11 21:31:57,694 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:31:57,694 - Failed to place order
+2024-09-11 21:40:20,534 - Positions closed successfully.
+2024-09-11 21:40:20,534 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-11 21:40:20,534 - Failed to place order
+2024-09-11 21:46:42,576 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:49:10,314 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:51:42,141 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D0591E090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-11 21:52:46,934 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D06BF1AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-11 21:53:50,245 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:54:55,287 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:55:04,937 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:55:28,352 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 21:55:54,615 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:14:55,693 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:16:57,021 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:21:02,424 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:23:55,909 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:24:44,273 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:29:38,358 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:32:33,270 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:32:52,994 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:35:48,553 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:46:48,050 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:47:38,699 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-11 22:56:01,555 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-12 13:09:55,038 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 13:13:24,011 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 14:30:11,213 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 14:39:03,376 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 14:44:49,533 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 14:52:04,403 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 15:01:19,400 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 15:02:24,055 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 15:10:27,318 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 15:18:46,986 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 15:23:20,182 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:23:20,194 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:23:20,194 - Scaler loaded successfully
+2024-09-12 15:23:22,677 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-12 15:29:47,563 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:29:47,572 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:29:47,572 - Scaler loaded successfully
+2024-09-12 15:29:49,987 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-12 15:38:55,055 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:38:55,063 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:38:55,063 - Scaler loaded successfully
+2024-09-12 15:39:00,128 - Error occurred: too many indices for array: array is 1-dimensional, but 2 were indexed
+2024-09-12 15:48:43,832 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:48:43,832 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:48:43,847 - Scaler loaded successfully
+2024-09-12 15:48:48,561 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-12 15:49:09,405 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:49:09,419 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:49:09,419 - Scaler loaded successfully
+2024-09-12 15:49:13,876 - Error occurred: cannot access local variable 'predicted_price' where it is not associated with a value
+2024-09-12 15:50:59,913 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:50:59,930 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:50:59,930 - Scaler loaded successfully
+2024-09-12 15:51:04,733 - Error occurred: name 'predicted_price' is not defined
+2024-09-12 15:51:36,650 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:51:36,662 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:51:36,662 - Scaler loaded successfully
+2024-09-12 15:51:57,721 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:51:57,721 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:51:57,721 - Scaler loaded successfully
+2024-09-12 15:52:31,582 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:52:31,582 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:52:31,582 - Scaler loaded successfully
+2024-09-12 15:52:44,017 - Failed to fetch market data: None
+2024-09-12 15:53:16,560 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:53:16,561 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:53:16,561 - Scaler loaded successfully
+2024-09-12 15:53:49,195 - Failed to fetch market data: None
+2024-09-12 15:54:21,723 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-12 15:54:22,739 - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-09-12 15:58:03,015 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 15:58:03,022 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 15:58:03,022 - Scaler loaded successfully
+2024-09-12 15:58:09,493 - Positions closed successfully.
+2024-09-12 15:58:09,493 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 15:58:09,493 - Failed to place order
+2024-09-12 16:48:38,428 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 16:48:38,428 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 16:48:38,428 - Scaler loaded successfully
+2024-09-12 16:48:45,700 - Positions closed successfully.
+2024-09-12 16:48:45,701 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 16:48:45,701 - Failed to place order
+2024-09-12 16:52:07,066 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 16:52:07,066 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 16:52:07,066 - Scaler loaded successfully
+2024-09-12 16:52:13,544 - Positions closed successfully.
+2024-09-12 16:52:13,544 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 16:52:13,544 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 16:52:49,546 - Error occurred: name 'predicted_price' is not defined
+2024-09-12 16:53:54,371 - Error occurred: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-09-12 16:54:12,759 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 16:54:12,776 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 16:54:12,776 - Scaler loaded successfully
+2024-09-12 16:54:16,837 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D097200E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-12 16:54:24,923 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 16:54:24,937 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 16:54:24,937 - Scaler loaded successfully
+2024-09-12 16:54:31,485 - Positions closed successfully.
+2024-09-12 16:54:31,485 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 16:54:31,485 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 16:58:15,388 - Positions closed successfully.
+2024-09-12 16:58:15,389 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 16:58:15,389 - Failed to place order
+2024-09-12 17:05:25,517 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:05:25,523 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:05:25,523 - Scaler loaded successfully
+2024-09-12 17:05:32,561 - Positions closed successfully.
+2024-09-12 17:05:32,565 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:05:32,565 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:06:52,563 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:06:52,563 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:06:52,563 - Scaler loaded successfully
+2024-09-12 17:06:59,090 - Positions closed successfully.
+2024-09-12 17:06:59,090 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:06:59,090 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:14:29,435 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:14:29,451 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:14:29,451 - Scaler loaded successfully
+2024-09-12 17:14:36,359 - Positions closed successfully.
+2024-09-12 17:14:36,359 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:14:36,359 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:20:36,669 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:20:36,669 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:20:36,669 - Scaler loaded successfully
+2024-09-12 17:20:43,776 - Positions closed successfully.
+2024-09-12 17:20:45,800 - Order placement failed: Missing required fields.
+2024-09-12 17:20:45,800 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:22:48,703 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:22:48,703 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:22:48,703 - Scaler loaded successfully
+2024-09-12 17:22:55,332 - Positions closed successfully.
+2024-09-12 17:22:57,365 - Order placement failed: Missing required fields.
+2024-09-12 17:22:57,365 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:25:36,863 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:25:36,866 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:25:36,866 - Scaler loaded successfully
+2024-09-12 17:25:43,379 - Positions closed successfully.
+2024-09-12 17:25:45,406 - Order placement failed: Missing required fields.
+2024-09-12 17:25:45,406 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:30:10,435 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:30:10,442 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:30:10,442 - Scaler loaded successfully
+2024-09-12 17:30:16,922 - Positions closed successfully.
+2024-09-12 17:30:19,002 - Error placing order: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:30:19,002 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:32:12,485 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:32:12,485 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:32:12,485 - Scaler loaded successfully
+2024-09-12 17:32:18,961 - Positions closed successfully.
+2024-09-12 17:32:20,999 - Error placing order: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:32:20,999 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:32:39,424 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:32:39,424 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:32:39,424 - Scaler loaded successfully
+2024-09-12 17:32:45,733 - Positions closed successfully.
+2024-09-12 17:32:47,777 - Order placement failed: Missing required fields.
+2024-09-12 17:32:47,777 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:34:55,183 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:34:55,188 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:34:55,188 - Scaler loaded successfully
+2024-09-12 17:35:04,416 - Positions closed successfully.
+2024-09-12 17:35:06,448 - Order placement failed: Missing required fields.
+2024-09-12 17:35:06,448 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:35:54,913 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:35:54,913 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:35:54,913 - Scaler loaded successfully
+2024-09-12 17:36:02,167 - Positions closed successfully.
+2024-09-12 17:36:04,196 - Order placement failed: Missing required fields.
+2024-09-12 17:36:04,196 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:36:42,092 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:36:42,108 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:36:42,108 - Scaler loaded successfully
+2024-09-12 17:36:48,692 - Positions closed successfully.
+2024-09-12 17:36:50,725 - Order placement failed: Missing required fields.
+2024-09-12 17:36:50,725 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:38:00,897 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:38:00,911 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:38:00,911 - Scaler loaded successfully
+2024-09-12 17:38:07,246 - Positions closed successfully.
+2024-09-12 17:38:09,274 - Order placement failed: Missing required fields.
+2024-09-12 17:38:09,274 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:39:08,348 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:39:08,354 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:39:08,356 - Scaler loaded successfully
+2024-09-12 17:39:14,720 - Positions closed successfully.
+2024-09-12 17:39:16,756 - Order placement failed: Missing required fields.
+2024-09-12 17:39:16,756 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:41:15,228 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:41:15,228 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:41:15,228 - Scaler loaded successfully
+2024-09-12 17:41:21,678 - Positions closed successfully.
+2024-09-12 17:41:23,731 - Error placing order: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:41:23,731 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:42:27,063 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:42:27,077 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:42:27,077 - Scaler loaded successfully
+2024-09-12 17:42:33,444 - Positions closed successfully.
+2024-09-12 17:42:35,484 - Error placing order: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:42:35,484 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:42:49,961 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:42:49,961 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 17:42:49,961 - Scaler loaded successfully
+2024-09-12 17:42:56,487 - Positions closed successfully.
+2024-09-12 17:43:00,708 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6662.184, 'bid': 6662.0, 'comment': 'Request executed', 'deal': 5113515364, 'order': 5210258562, 'price': 6662.0, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6701.192813393845, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571137, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 17:43:00,708 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:48:04,344 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 17:48:04,357 - Model 5569074_Volatility 100 Index.h5 loaded successfully
+2024-09-12 17:48:04,357 - Scaler loaded successfully
+2024-09-12 17:48:11,869 - Positions closed successfully.
+2024-09-12 17:48:14,582 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 1363.24, 'bid': 1362.85, 'comment': 'Request executed', 'deal': 5113520496, 'order': 5210263874, 'price': 1362.85, 'request': [1, 0, 0, 'Volatility 100 Index', 0.5, 1402.149942537731, 0.0, 1490.3246181466986, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571138, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 17:48:14,582 - Sell order placed with result: {'model': '5569074_Volatility 100 Index.h5'}, Predicted price: 0.01857958734035492
+2024-09-12 17:48:51,563 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:48:51,563 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:48:51,563 - Failed to place order
+2024-09-12 17:52:19,317 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:52:19,317 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:52:19,317 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:54:37,396 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:54:37,396 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:54:37,396 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 17:58:21,392 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 17:58:21,392 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 17:58:21,392 - Failed to place order
+2024-09-12 18:05:38,402 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:05:38,402 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 18:05:38,402 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 18:07:05,015 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:07:05,015 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 18:07:05,015 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 18:14:42,466 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:14:42,466 - Error placing order: Object of type ndarray is not JSON serializable
+2024-09-12 18:14:42,466 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 6651.314453125
+2024-09-12 18:17:59,727 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 18:19:56,707 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:19:56,721 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:19:56,721 - Scaler loaded successfully
+2024-09-12 18:20:03,300 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:20:06,530 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6671.579, 'bid': 6671.395, 'comment': 'Request executed', 'deal': 5113543687, 'order': 5210288346, 'price': 6671.395, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6701.192813393845, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571139, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:20:06,530 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 8.621430397033691
+2024-09-12 18:20:48,924 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_653734]
+2024-09-12 18:23:00,557 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_654097]
+2024-09-12 18:24:48,178 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:24:48,190 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:24:48,190 - Scaler loaded successfully
+2024-09-12 18:24:55,111 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:24:58,538 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6672.022, 'bid': 6671.838, 'comment': 'Request executed', 'deal': 5113546951, 'order': 5210291787, 'price': 6671.838, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6701.192813393845, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571140, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:24:58,538 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: 8.718354225158691
+2024-09-12 18:25:49,071 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_657488]
+2024-09-12 18:27:28,129 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:27:28,138 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:27:28,138 - Scaler loaded successfully
+2024-09-12 18:27:34,741 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:27:34,741 - Error occurred: name 'predicted_price' is not defined
+2024-09-12 18:30:21,876 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_660879]
+2024-09-12 18:31:42,674 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:31:42,690 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:31:42,690 - Scaler loaded successfully
+2024-09-12 18:31:49,273 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:31:52,817 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6665.966, 'bid': 6665.782, 'comment': 'Request executed', 'deal': 5113550902, 'order': 5210295908, 'price': 6665.966, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571141, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:31:52,825 - Error occurred: name 'predicted_price' is not defined
+2024-09-12 18:32:24,322 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_664270]
+2024-09-12 18:32:50,680 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_664633]
+2024-09-12 18:33:27,401 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:33:27,416 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:33:27,416 - Scaler loaded successfully
+2024-09-12 18:33:34,527 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:33:38,509 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6665.446, 'bid': 6665.262, 'comment': 'Request executed', 'deal': 5113551963, 'order': 5210297081, 'price': 6665.446, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571142, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:33:38,524 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6665.446, 'bid': 6665.262, 'comment': 'Request executed', 'deal': 5113551963, 'order': 5210297081, 'price': 6665.446, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571142, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 3.3279480934143066
+2024-09-12 18:35:09,529 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_668024]
+2024-09-12 18:36:07,249 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_668387]
+2024-09-12 18:36:38,347 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:36:38,367 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:36:38,367 - Scaler loaded successfully
+2024-09-12 18:36:45,595 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 18:36:48,544 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6666.593, 'bid': 6666.409, 'comment': 'Request executed', 'deal': 5113553748, 'order': 5210298957, 'price': 6666.593, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571143, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:36:48,544 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6666.593, 'bid': 6666.409, 'comment': 'Request executed', 'deal': 5113553748, 'order': 5210298957, 'price': 6666.593, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571143, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 3.719848155975342
+2024-09-12 18:36:54,352 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_671778]
+2024-09-12 18:38:06,319 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:38:06,344 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:38:06,344 - Scaler loaded successfully
+2024-09-12 18:38:12,198 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_675169]
+2024-09-12 18:38:20,496 - Positions closed successfully.
+2024-09-12 18:38:24,574 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6665.729, 'bid': 6665.545, 'comment': 'Request executed', 'deal': 5113554702, 'order': 5210299925, 'price': 6665.729, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571148, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:38:24,574 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6665.729, 'bid': 6665.545, 'comment': 'Request executed', 'deal': 5113554702, 'order': 5210299925, 'price': 6665.729, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6619.592599629577, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571148, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 3.7294468879699707
+2024-09-12 18:39:19,709 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_675532]
+2024-09-12 18:41:26,639 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_675895]
+2024-09-12 18:42:40,001 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_691514]
+2024-09-12 18:43:05,017 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_696951]
+2024-09-12 18:44:03,919 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 18:48:17,771 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_710582]
+2024-09-12 18:48:54,935 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_710945]
+2024-09-12 18:51:49,468 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 18:51:49,481 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 18:51:49,481 - Scaler loaded successfully
+2024-09-12 18:51:56,493 - Positions closed successfully.
+2024-09-12 18:52:00,494 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6662.121, 'bid': 6661.937, 'comment': 'Request executed', 'deal': 5113563830, 'order': 5210309635, 'price': 6661.937, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6701.192813393845, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571150, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 18:52:00,494 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6662.121, 'bid': 6661.937, 'comment': 'Request executed', 'deal': 5113563830, 'order': 5210309635, 'price': 6661.937, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6660.392706511711, 0.0, 6701.192813393845, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571150, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -0.5728376507759094
+2024-09-12 18:52:22,193 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_714336]
+2024-09-12 18:54:40,428 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_714699]
+2024-09-12 18:58:24,317 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_715062]
+2024-09-12 19:05:41,279 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_715425]
+2024-09-12 19:07:07,962 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_715788]
+2024-09-12 19:15:50,529 - Failed to fetch market data: None
+2024-09-12 19:19:40,477 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 19:20:14,517 - Positions closed successfully.
+2024-09-12 19:20:18,559 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6666.211, 'bid': 6666.027, 'comment': 'Request executed', 'deal': 5113585019, 'order': 5210332255, 'price': 6666.027, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571152, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:20:18,559 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: -0.4990539848804474
+2024-09-12 19:25:00,631 - Error occurred: Expecting value: line 1 column 1 (char 0)
+2024-09-12 19:28:41,915 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-09-12 19:32:50,742 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 19:32:50,773 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 19:32:50,774 - Scaler loaded successfully
+2024-09-12 19:33:00,499 - Positions closed successfully.
+2024-09-12 19:33:05,054 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6666.006, 'bid': 6665.822, 'comment': 'Request executed', 'deal': 5113594837, 'order': 5210342633, 'price': 6666.006, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571154, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:33:05,054 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6666.006, 'bid': 6665.822, 'comment': 'Request executed', 'deal': 5113594837, 'order': 5210342633, 'price': 6666.006, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571154, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 0.6029677987098694
+2024-09-12 19:33:48,487 - Positions closed successfully.
+2024-09-12 19:33:52,409 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6665.169, 'bid': 6664.985, 'comment': 'Request executed', 'deal': 5113595350, 'order': 5210343201, 'price': 6664.985, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571156, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:33:52,409 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6665.169, 'bid': 6664.985, 'comment': 'Request executed', 'deal': 5113595350, 'order': 5210343201, 'price': 6664.985, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571156, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.7926435470581055
+2024-09-12 19:34:49,685 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 19:34:49,685 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 19:34:49,685 - Scaler loaded successfully
+2024-09-12 19:34:58,420 - Positions closed successfully.
+2024-09-12 19:35:02,427 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6663.487, 'bid': 6663.303, 'comment': 'Request executed', 'deal': 5113595961, 'order': 5210343854, 'price': 6663.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571158, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:35:02,427 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6663.487, 'bid': 6663.303, 'comment': 'Request executed', 'deal': 5113595961, 'order': 5210343854, 'price': 6663.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571158, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -1.095632791519165
+2024-09-12 19:36:56,409 - Positions closed successfully.
+2024-09-12 19:37:00,424 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6664.756, 'bid': 6664.572, 'comment': 'Request executed', 'deal': 5113597243, 'order': 5210345279, 'price': 6664.572, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571160, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:37:00,424 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6664.756, 'bid': 6664.572, 'comment': 'Request executed', 'deal': 5113597243, 'order': 5210345279, 'price': 6664.572, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571160, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.940804481506348
+2024-09-12 19:38:32,730 - Positions closed successfully.
+2024-09-12 19:38:36,535 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6663.491, 'bid': 6663.307, 'comment': 'Request executed', 'deal': 5113598449, 'order': 5210346580, 'price': 6663.307, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571162, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:38:36,535 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6663.491, 'bid': 6663.307, 'comment': 'Request executed', 'deal': 5113598449, 'order': 5210346580, 'price': 6663.307, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571162, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.942187786102295
+2024-09-12 19:52:08,401 - Positions closed successfully.
+2024-09-12 19:52:12,378 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6663.357, 'bid': 6663.173, 'comment': 'Request executed', 'deal': 5113607736, 'order': 5210356581, 'price': 6663.173, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571164, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:52:12,378 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6663.357, 'bid': 6663.173, 'comment': 'Request executed', 'deal': 5113607736, 'order': 5210356581, 'price': 6663.173, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571164, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.944320201873779
+2024-09-12 19:53:16,190 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 19:53:16,190 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 19:53:16,190 - Scaler loaded successfully
+2024-09-12 19:53:24,526 - Positions closed successfully.
+2024-09-12 19:53:28,405 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6664.249, 'bid': 6664.065, 'comment': 'Request executed', 'deal': 5113608631, 'order': 5210357509, 'price': 6664.249, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571166, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 19:53:28,405 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6664.249, 'bid': 6664.065, 'comment': 'Request executed', 'deal': 5113608631, 'order': 5210357509, 'price': 6664.249, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571166, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 0.0035938825458288193
+2024-09-12 20:16:57,555 - Failed to fetch market data: None
+2024-09-12 20:21:25,837 - Failed to fetch market data: None
+2024-09-12 20:31:26,040 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 20:31:26,050 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 20:31:26,050 - Scaler loaded successfully
+2024-09-12 20:31:34,875 - Positions closed successfully.
+2024-09-12 20:31:38,347 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6672.095, 'bid': 6671.911, 'comment': 'Request executed', 'deal': 5113636374, 'order': 5210386905, 'price': 6672.095, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571167, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:31:38,347 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6672.095, 'bid': 6671.911, 'comment': 'Request executed', 'deal': 5113636374, 'order': 5210386905, 'price': 6672.095, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571167, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 6.633554935455322
+2024-09-12 20:33:10,971 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 20:33:14,383 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6671.303, 'bid': 6671.119, 'comment': 'Request executed', 'deal': 5113637354, 'order': 5210387981, 'price': 6671.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571168, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:33:14,383 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6671.303, 'bid': 6671.119, 'comment': 'Request executed', 'deal': 5113637354, 'order': 5210387981, 'price': 6671.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571168, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 6.254727363586426
+2024-09-12 20:33:58,845 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 20:34:02,322 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6671.11, 'bid': 6670.926, 'comment': 'Request executed', 'deal': 5113637802, 'order': 5210388466, 'price': 6670.926, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571169, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:34:02,322 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6671.11, 'bid': 6670.926, 'comment': 'Request executed', 'deal': 5113637802, 'order': 5210388466, 'price': 6670.926, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571169, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.520726203918457
+2024-09-12 20:35:07,999 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 20:35:10,446 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6670.62, 'bid': 6670.436, 'comment': 'Request executed', 'deal': 5113638278, 'order': 5210388990, 'price': 6670.62, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571170, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:35:10,446 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6670.62, 'bid': 6670.436, 'comment': 'Request executed', 'deal': 5113638278, 'order': 5210388990, 'price': 6670.62, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571170, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 6.072140693664551
+2024-09-12 20:37:06,026 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 20:37:08,314 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6672.463, 'bid': 6672.279, 'comment': 'Request executed', 'deal': 5113639494, 'order': 5210390408, 'price': 6672.279, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571171, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:37:08,314 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6672.463, 'bid': 6672.279, 'comment': 'Request executed', 'deal': 5113639494, 'order': 5210390408, 'price': 6672.279, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571171, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.439990043640137
+2024-09-12 20:38:42,087 - Error closing positions: Expecting value: line 1 column 1 (char 0)
+2024-09-12 20:38:46,711 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6673.875, 'bid': 6673.691, 'comment': 'Request executed', 'deal': 5113640155, 'order': 5210391135, 'price': 6673.691, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571172, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:38:46,711 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6673.875, 'bid': 6673.691, 'comment': 'Request executed', 'deal': 5113640155, 'order': 5210391135, 'price': 6673.691, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571172, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.36788272857666
+2024-09-12 20:49:26,140 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 20:49:26,156 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 20:49:26,156 - Scaler loaded successfully
+2024-09-12 20:49:36,333 - Positions closed successfully.
+2024-09-12 20:49:40,302 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6669.742, 'bid': 6669.558, 'comment': 'Request executed', 'deal': 5113647451, 'order': 5210398790, 'price': 6669.742, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571175, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:49:40,302 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6669.742, 'bid': 6669.558, 'comment': 'Request executed', 'deal': 5113647451, 'order': 5210398790, 'price': 6669.742, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571175, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 4.616892337799072
+2024-09-12 20:52:17,987 - Failed to close positions: Order type is missing.
+2024-09-12 20:52:22,407 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6668.602, 'bid': 6668.418, 'comment': 'Request executed', 'deal': 5113649833, 'order': 5210401287, 'price': 6668.418, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571176, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:52:22,407 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6668.602, 'bid': 6668.418, 'comment': 'Request executed', 'deal': 5113649833, 'order': 5210401287, 'price': 6668.418, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571176, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.680481910705566
+2024-09-12 20:53:40,810 - Failed to close positions: No open positions found.
+2024-09-12 20:53:44,283 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6669.595, 'bid': 6669.411, 'comment': 'Request executed', 'deal': 5113650861, 'order': 5210402367, 'price': 6669.595, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571177, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 20:53:44,283 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6669.595, 'bid': 6669.411, 'comment': 'Request executed', 'deal': 5113650861, 'order': 5210402367, 'price': 6669.595, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571177, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 4.282789707183838
+2024-09-12 21:17:01,299 - Error occurred: Graph execution error:
+
+Detected at node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul defined at (most recent call last):
+<stack traces unavailable>
+Matrix size-incompatible: In[0]: [32,10], In[1]: [9,600]
+	 [[{{node sequential_1/lstm_1/while/body/_1/sequential_1/lstm_1/while/lstm_cell_1/MatMul}}]] [Op:__inference_one_step_on_data_distributed_855023]
+2024-09-12 21:21:31,920 - Failed to close positions: Order type is missing.
+2024-09-12 21:21:34,349 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6675.366, 'bid': 6675.182, 'comment': 'Request executed', 'deal': 5113671304, 'order': 5210423525, 'price': 6675.182, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571178, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:21:34,349 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: -6.250555992126465
+2024-09-12 21:24:56,700 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-09-12 21:24:56,742 - Model 5569074_Volatility 10 Index.h5 loaded successfully
+2024-09-12 21:24:56,742 - Scaler loaded successfully
+2024-09-12 21:25:00,823 - Error occurred: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /get_trading_data (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018D3AE5F9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-09-12 21:31:44,793 - Positions closed successfully.
+2024-09-12 21:31:48,234 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6678.524, 'bid': 6678.34, 'comment': 'Request executed', 'deal': 5113678811, 'order': 5210431331, 'price': 6678.524, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571179, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:31:48,234 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6678.524, 'bid': 6678.34, 'comment': 'Request executed', 'deal': 5113678811, 'order': 5210431331, 'price': 6678.524, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571179, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 13.59621810913086
+2024-09-12 21:33:22,815 - Positions closed successfully.
+2024-09-12 21:33:26,232 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6679.139, 'bid': 6678.955, 'comment': 'Request executed', 'deal': 5113680135, 'order': 5210432704, 'price': 6679.139, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571181, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:33:26,232 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6679.139, 'bid': 6678.955, 'comment': 'Request executed', 'deal': 5113680135, 'order': 5210432704, 'price': 6679.139, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571181, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 13.91608715057373
+2024-09-12 21:34:10,223 - Positions closed successfully.
+2024-09-12 21:34:14,665 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6678.979, 'bid': 6678.795, 'comment': 'Request executed', 'deal': 5113680586, 'order': 5210433166, 'price': 6678.795, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571183, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:34:14,665 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6678.979, 'bid': 6678.795, 'comment': 'Request executed', 'deal': 5113680586, 'order': 5210433166, 'price': 6678.795, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571183, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.050262451171875
+2024-09-12 21:35:18,237 - Positions closed successfully.
+2024-09-12 21:35:22,229 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6678.528, 'bid': 6678.344, 'comment': 'Request executed', 'deal': 5113681378, 'order': 5210433987, 'price': 6678.528, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571185, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:35:22,229 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6678.528, 'bid': 6678.344, 'comment': 'Request executed', 'deal': 5113681378, 'order': 5210433987, 'price': 6678.528, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571185, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 13.236490249633789
+2024-09-12 21:37:16,325 - Positions closed successfully.
+2024-09-12 21:37:20,227 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6677.333, 'bid': 6677.149, 'comment': 'Request executed', 'deal': 5113682525, 'order': 5210435169, 'price': 6677.149, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571187, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:37:20,227 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6677.333, 'bid': 6677.149, 'comment': 'Request executed', 'deal': 5113682525, 'order': 5210435169, 'price': 6677.149, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571187, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.144593238830566
+2024-09-12 21:38:54,245 - Positions closed successfully.
+2024-09-12 21:38:58,228 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6678.076, 'bid': 6677.892, 'comment': 'Request executed', 'deal': 5113683774, 'order': 5210436377, 'price': 6677.892, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571189, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:38:58,228 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6678.076, 'bid': 6677.892, 'comment': 'Request executed', 'deal': 5113683774, 'order': 5210436377, 'price': 6677.892, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571189, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.120814323425293
+2024-09-12 21:49:48,230 - Positions closed successfully.
+2024-09-12 21:49:52,272 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6676.05, 'bid': 6675.866, 'comment': 'Request executed', 'deal': 5113691730, 'order': 5210444458, 'price': 6676.05, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571191, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:49:52,272 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6676.05, 'bid': 6675.866, 'comment': 'Request executed', 'deal': 5113691730, 'order': 5210444458, 'price': 6676.05, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571191, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 10.938346862792969
+2024-09-12 21:52:30,203 - Positions closed successfully.
+2024-09-12 21:52:34,213 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6676.256, 'bid': 6676.072, 'comment': 'Request executed', 'deal': 5113693263, 'order': 5210446012, 'price': 6676.072, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571193, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:52:34,213 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6676.256, 'bid': 6676.072, 'comment': 'Request executed', 'deal': 5113693263, 'order': 5210446012, 'price': 6676.072, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6701.108928794411, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571193, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.227736473083496
+2024-09-12 21:53:52,246 - Positions closed successfully.
+2024-09-12 21:53:56,256 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6677.311, 'bid': 6677.127, 'comment': 'Request executed', 'deal': 5113694202, 'order': 5210446974, 'price': 6677.311, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571195, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-12 21:53:56,256 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6677.311, 'bid': 6677.127, 'comment': 'Request executed', 'deal': 5113694202, 'order': 5210446974, 'price': 6677.311, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6661.440032600491, 0.0, 6621.77113640657, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571195, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 11.799053192138672
+2024-09-12 22:40:35,117 - Failed to fetch market data: None
+2024-09-12 22:50:48,906 - Failed to fetch market data: None
+2024-09-12 22:52:26,967 - Failed to fetch market data: None
+2024-09-12 22:53:32,489 - Failed to fetch market data: None
+2024-09-12 22:54:37,759 - Failed to fetch market data: None
+2024-09-12 22:56:20,929 - Failed to fetch market data: None
+2024-09-12 22:57:59,043 - Failed to fetch market data: None
+2024-09-12 23:08:52,776 - Failed to fetch market data: None
+2024-09-12 23:11:35,002 - Failed to fetch market data: None
+2024-09-12 23:12:57,050 - Failed to fetch market data: None
+2024-09-12 23:41:42,285 - Failed to fetch market data: None
+2024-09-12 23:51:56,175 - Failed to fetch market data: None
+2024-09-12 23:53:34,237 - Failed to fetch market data: None
+2024-09-12 23:54:39,760 - Failed to fetch market data: None
+2024-09-12 23:55:45,180 - Failed to fetch market data: None
+2024-09-12 23:57:27,978 - Failed to fetch market data: None
+2024-09-12 23:59:06,240 - Failed to fetch market data: None
+2024-09-13 07:42:47,225 - Failed to fetch market data: None
+2024-09-13 07:45:29,551 - Failed to fetch market data: None
+2024-09-13 07:46:51,536 - Failed to fetch market data: None
+2024-09-13 08:15:37,142 - Failed to fetch market data: None
+2024-09-13 08:25:50,668 - Failed to fetch market data: None
+2024-09-13 08:27:28,796 - Failed to fetch market data: None
+2024-09-13 08:28:34,314 - Failed to fetch market data: None
+2024-09-13 08:29:39,710 - Failed to fetch market data: None
+2024-09-13 08:31:22,594 - Failed to fetch market data: None
+2024-09-13 08:33:00,599 - Failed to fetch market data: None
+2024-09-13 08:43:54,304 - Failed to fetch market data: None
+2024-09-13 08:46:36,285 - Failed to fetch market data: None
+2024-09-13 08:47:58,560 - Failed to fetch market data: None
+2024-09-13 09:15:44,306 - Positions closed successfully.
+2024-09-13 09:15:48,314 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6667.241, 'bid': 6667.057, 'comment': 'Request executed', 'deal': 5113981055, 'order': 5210753467, 'price': 6667.057, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571197, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:15:48,314 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: -6.751978874206543
+2024-09-13 09:25:58,294 - Positions closed successfully.
+2024-09-13 09:26:02,331 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6669.831, 'bid': 6669.647, 'comment': 'Request executed', 'deal': 5113986479, 'order': 5210759262, 'price': 6669.831, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571199, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:26:02,331 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6669.831, 'bid': 6669.647, 'comment': 'Request executed', 'deal': 5113986479, 'order': 5210759262, 'price': 6669.831, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571199, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 3.945878267288208
+2024-09-13 09:27:36,372 - Positions closed successfully.
+2024-09-13 09:27:40,301 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6669.979, 'bid': 6669.795, 'comment': 'Request executed', 'deal': 5113987200, 'order': 5210760030, 'price': 6669.979, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571201, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:27:40,301 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6669.979, 'bid': 6669.795, 'comment': 'Request executed', 'deal': 5113987200, 'order': 5210760030, 'price': 6669.979, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571201, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 3.8951075077056885
+2024-09-13 09:28:42,302 - Positions closed successfully.
+2024-09-13 09:28:46,387 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6670.56, 'bid': 6670.376, 'comment': 'Request executed', 'deal': 5113987852, 'order': 5210760738, 'price': 6670.376, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571203, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:28:46,387 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6670.56, 'bid': 6670.376, 'comment': 'Request executed', 'deal': 5113987852, 'order': 5210760738, 'price': 6670.376, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571203, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.539752960205078
+2024-09-13 09:29:46,297 - Positions closed successfully.
+2024-09-13 09:29:50,306 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6669.542, 'bid': 6669.358, 'comment': 'Request executed', 'deal': 5113988708, 'order': 5210761649, 'price': 6669.542, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571205, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:29:50,306 - Buy order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6669.542, 'bid': 6669.358, 'comment': 'Request executed', 'deal': 5113988708, 'order': 5210761649, 'price': 6669.542, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6622.787556431023, 0.0, 0, 0, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571205, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: 4.077672481536865
+2024-09-13 09:31:30,306 - Positions closed successfully.
+2024-09-13 09:31:34,297 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6668.904, 'bid': 6668.72, 'comment': 'Request executed', 'deal': 5113989735, 'order': 5210762725, 'price': 6668.72, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571207, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:31:34,297 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6668.904, 'bid': 6668.72, 'comment': 'Request executed', 'deal': 5113989735, 'order': 5210762725, 'price': 6668.72, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571207, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.659574508666992
+2024-09-13 09:33:08,460 - Positions closed successfully.
+2024-09-13 09:33:12,280 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6667.395, 'bid': 6667.211, 'comment': 'Request executed', 'deal': 5113990670, 'order': 5210763727, 'price': 6667.211, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571209, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 09:33:12,280 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6667.395, 'bid': 6667.211, 'comment': 'Request executed', 'deal': 5113990670, 'order': 5210763727, 'price': 6667.211, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.133389756392, 0.0, 6703.47922308176, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571209, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -6.753247261047363
+2024-09-13 11:46:06,881 - Positions closed successfully.
+2024-09-13 11:46:10,783 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6659.487, 'bid': 6659.303, 'comment': 'Request executed', 'deal': 5114071892, 'order': 5210849317, 'price': 6659.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571211, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 11:46:10,783 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6659.487, 'bid': 6659.303, 'comment': 'Request executed', 'deal': 5114071892, 'order': 5210849317, 'price': 6659.303, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571211, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -4.646610736846924
+2024-09-13 11:50:26,620 - Positions closed successfully.
+2024-09-13 11:50:30,695 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6660.978, 'bid': 6660.794, 'comment': 'Request executed', 'deal': 5114074723, 'order': 5210852387, 'price': 6660.794, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571213, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 11:50:30,695 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6660.978, 'bid': 6660.794, 'comment': 'Request executed', 'deal': 5114074723, 'order': 5210852387, 'price': 6660.794, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571213, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -7.0995306968688965
+2024-09-13 11:51:48,699 - Positions closed successfully.
+2024-09-13 11:51:52,531 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6660.913, 'bid': 6660.729, 'comment': 'Request executed', 'deal': 5114075500, 'order': 5210853258, 'price': 6660.729, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571215, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 11:51:52,531 - Sell order placed with result: {'message': 'Order placed successfully.', 'result': {'ask': 6660.913, 'bid': 6660.729, 'comment': 'Request executed', 'deal': 5114075500, 'order': 5210853258, 'price': 6660.729, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571215, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}, Predicted diff: -2.7090542316436768
+2024-09-13 12:19:38,720 - Positions closed successfully.
+2024-09-13 12:19:45,999 - Order placed: {'message': 'Order placed successfully.', 'result': {'ask': 6662.234, 'bid': 6662.049, 'comment': 'Request executed', 'deal': 5114091692, 'order': 5210870435, 'price': 6662.049, 'request': [1, 0, 0, 'Volatility 10 Index', 0.5, 6663.587682527956, 0.0, 6702.039932520787, 0.0, 0, 1, 0, 0, 0, 'LSTM Trade Order', 0, 0], 'request_id': 3012571217, 'retcode': 10009, 'retcode_external': 0, 'volume': 0.5}, 'status': 'success'}
+2024-09-13 12:19:45,999 - Sell order placed with result: {'model': '5569074_Volatility 10 Index.h5'}, Predicted price: -7.052463531494141
+2024-09-13 12:30:52,553 - Failed to fetch market data: None
+2024-09-13 12:32:30,610 - Failed to fetch market data: None
+2024-09-13 12:33:36,344 - Failed to fetch market data: None
+2024-09-13 12:34:41,879 - Failed to fetch market data: None
